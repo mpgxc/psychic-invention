@@ -1,6 +1,6 @@
 import getPalleteColors from "./getPalleteColors";
 import readImageToBuffer from "./readImageToBuffer";
-import ScrapPage from "./utils/createScrapPage";
+import ScrapPage from "./services/createScrapPage.Service";
 
 const image = readImageToBuffer("./tmp/person.jpg");
 
