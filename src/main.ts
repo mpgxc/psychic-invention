@@ -3,9 +3,9 @@ import readImageToBuffer from "./readImageToBuffer";
 import createScrapPage from "./services/createScrapPage.Service";
 import createColorSimilarity from "./services/createColorSimilarity.Service";
 
-const image = readImageToBuffer("./tmp/person.jpg");
+// const image = readImageToBuffer("./tmp/person.jpg");
 
-getPalleteColors(image, "jpg").then(console.log);
+// getPalleteColors(image, "jpg").then(console.log);
 
 // createScrapPage().then();
 
