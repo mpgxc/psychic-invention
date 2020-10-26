@@ -4,8 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@types/chroma-js": "^2.1.0",
     "@types/get-image-colors": "^2.0.0",
     "@types/puppeteer": "^3.0.2",
+    "chroma-js": "^2.1.0",
     "fast-csv": "^4.3.2",
     "get-image-colors": "^4.0.0",
     "puppeteer": "^5.4.0"
